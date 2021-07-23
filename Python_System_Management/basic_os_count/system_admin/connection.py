@@ -6,6 +6,7 @@ import os
 print "어떤 파이썬 서버에 연결하시겠습니까?"
 select = input("연결하고자 하는 파이썬 서버를 선택하세요(1,2) : ")
 
+
 if select ==1:
     os.system("ssh 10.10.10.100")
 elif select ==2:
