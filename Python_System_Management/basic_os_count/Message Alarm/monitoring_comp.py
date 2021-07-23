@@ -41,6 +41,7 @@ def alert() :
     print "\n", datetime.datetime.now(), "문제가 발생했습니다!!"
 
     
+    
 # 메인 함수
 if __name__ == "__main__":    
     print "==코드가 직접 실행됩니다.=="
