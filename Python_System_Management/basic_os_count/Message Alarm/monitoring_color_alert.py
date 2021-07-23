@@ -39,6 +39,7 @@ def check(file_name, search_word) :
         sleep(5)
         
 # search_word 인자 추가 및 색상 적용(검색한 단어의 종류에 따라 다른 글자색을 적용하도록 수정)
+
 def alert(search_word) :
     now = datetime.datetime.now()
     if search_word == "FATAL" :
