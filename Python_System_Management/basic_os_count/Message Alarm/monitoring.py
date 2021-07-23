@@ -18,6 +18,7 @@ def check(file_name, search_word) :
 
     index = 0
     while os.path.exists(file_name) :
+        
         # 파일에 찾을 단어('FATAL')가 있는지 확인
         fp = open(file_name)
         file_data =fp.read()
