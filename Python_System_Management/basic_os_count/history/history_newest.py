@@ -19,3 +19,4 @@ if __name__ == "__main__":
             print "\t%s\t%s" % history_list[i]
             i = i + 1
         print "-" * 70
+        
