@@ -10,6 +10,8 @@ import shutil
 import os
 import sys
 
+
+
 def write_brief(brief_path) :
     # show interface brief 명령어를 실행해 결과를 파일에 작성
     ret = cli("show interface brief")
