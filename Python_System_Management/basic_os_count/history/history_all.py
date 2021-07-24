@@ -47,3 +47,4 @@ if __name__ == "__main__":
         for h in history_list :
             print "\t%s\t%s" % h
         print "-" * 70
+        
