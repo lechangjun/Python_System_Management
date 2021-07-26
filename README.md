@@ -1,8 +1,8 @@
 # Python_System_Management
 ## System Management struct
+### study result
 
-
- Python system management	(main)			
+ #### Python system management	(main)			
 
 
     ├── vm(Virtual Machine)	management ()
