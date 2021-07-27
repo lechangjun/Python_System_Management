@@ -1,16 +1,7 @@
 # Python_System_Management
 ## System Management struct
 ### study result
-
- #### Python system management	(main)			
-
-
-    ├── vm(Virtual Machine)	management ()
-    │   ├── RAID ->
-    │   ├──	os count
-    │   ├──	network	
-    │   ├── Message Alarm
-    │       └── for a moment
+https://docs.python.org/ko/3/library/allos.html
 
 
 
