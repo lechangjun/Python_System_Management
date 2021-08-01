@@ -15,6 +15,7 @@ https://docs.python.org/ko/3/library/allos.html
 
 
 ####   2.  OID (CPU 사용량, 메모리 사용량, 포트 상태) 개별정보
+#### https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/OID/oid_easyrun.py
 
 
 
