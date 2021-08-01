@@ -11,7 +11,7 @@ https://docs.python.org/ko/3/library/allos.html
 
 
 ####   1.  리눅스 로그파일
-- [리눅스 로그파일](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/Message%20Alarm/mylog.py)
+- [리눅스 로그파일 ](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/Message%20Alarm/mylog.py)
 
 
 
