@@ -11,21 +11,28 @@ https://docs.python.org/ko/3/library/allos.html
 
 
 ####   1.  리눅스 로그파일
+- [리눅스 로그파일](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/Message%20Alarm/mylog.py)
 
 
 
 ####   2.  OID (CPU 사용량, 메모리 사용량, 포트 상태) 개별정보
-#### https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/OID/oid_easyrun.py
-
+- [OID (CPU 사용량, 메모리 사용량, 포트 상태) 개별정보](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/OID/oid_easyrun.py)
 
 
 ####   3.  SMART LOG COLLECTOR
+- [CPU status detection](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/Smart%20Log%20Collector/CPU%20status%20detection/cpu_usage_monitoring.py)
 
 
 
+- [Interface Detection](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/Smart%20Log%20Collector/Interface%20Detection/check_interface_pk_monitoring.py)
 ####   4.  스케줄러 설정 -> cron
 
-####  cron 
+- [데몬 상태](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/cron/cron_sys_chk.py)
+
+
+- [CPU, 코어 동작 시간, 메모리 사용률](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/cron/reqular_chk.sh.sh)
+
+####  [cron](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/cron/run_reqular_chk.sh)
    
      1)데몬 상태
      
