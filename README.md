@@ -4,11 +4,11 @@
 https://docs.python.org/ko/3/library/allos.html
 
 ## Python 시스탬 관리 코드
+![image](https://user-images.githubusercontent.com/68671394/127781645-9df9ecb8-162d-4acf-84a6-9d14d2a390a4.png)
 
 
 ### Python 코드 구조 
-
-
+![image](https://user-images.githubusercontent.com/68671394/127782080-406cd5c1-cc7c-438e-a9d5-363e1b77120f.png)
 
 ####   1.  리눅스 로그파일
 - [리눅스 로그파일 ](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/Message%20Alarm/mylog.py)
@@ -32,7 +32,10 @@ https://docs.python.org/ko/3/library/allos.html
 
 - [CPU, 코어 동작 시간, 메모리 사용률](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/cron/reqular_chk.sh.sh)
 
-####  [cron](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/cron/run_reqular_chk.sh)
+#  [ 🐳 Cron ](https://github.com/lechangjun/Python_System_Management/blob/main/Python_System_Management/basic_os_count/cron/run_reqular_chk.sh)
+![image](https://user-images.githubusercontent.com/68671394/127782290-0fe408ea-667b-49cf-84b1-1172484045c4.png)
+   
+  
    
      1)데몬 상태
      
