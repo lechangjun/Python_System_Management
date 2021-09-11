@@ -2,7 +2,6 @@
 ## System Management
 ### study result
 https://docs.python.org/ko/3/library/allos.html
-[이찯ㅇ준](https://github.com/lechangjun/STUDY-Directx2D/blob/main/STUDY-directx2D/STUDY-directx2D-main/%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6/homework(01)/Device.cpp)
 ## Python 시스탬 관리 코드
 ![image](https://user-images.githubusercontent.com/68671394/127781645-9df9ecb8-162d-4acf-84a6-9d14d2a390a4.png)
 
